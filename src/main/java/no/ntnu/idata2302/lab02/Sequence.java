@@ -72,7 +72,7 @@ public class Sequence {
     public void insert(int item, int index) {
         // TODO: Implement
         throw new RuntimeException("Not yet implemented.");
-    }
+    } 
 
     /**
      * Remove the index at the given index
